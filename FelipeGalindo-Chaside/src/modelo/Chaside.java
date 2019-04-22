@@ -251,16 +251,10 @@ public class Chaside {
 		
 
 
-			  System.out.println(c+"c1");
-			  System.out.println(h+"h1");
-			  System.out.println(a+"a1");
-			  System.out.println(s+"s1");
-			  System.out.println(i+"i1");
-			  System.out.println(d+"d1");
-			  System.out.println(e+"e1");
+			
 		
 	  if (c>h &&  c>a && c >s && c>i && c>d && c>e) {
-		  System.out.println(c);
+		  
 		 
 		 return "c - Administrativas y Contables \r\n"+" Intereses: Organizativo, Supervision,  Orden ,Análisis y síntesis,Colaboración,Cálculo,Liderazgo,Participación Activa ";
 		  
@@ -268,7 +262,7 @@ public class Chaside {
 	   }
 	  
 	  if (h>c &&  h>a && h >s && h>i && h>d && h>e) {
-		  System.out.println(h);
+		  
 			return "H – Humanísticas y Sociales \r\n"+"Intreses: Precisión Verbal,Organización,Relación de Hechos, Relación de Hechos, Lingüística, Orden, Justicia, El hombre analítico";
 			  
 			
@@ -448,15 +442,8 @@ public class Chaside {
 		}
 		
 		
-		System.out.println(c+"c2");
-		  System.out.println(h+"h2");
-		  System.out.println(a+"a2");
-		  System.out.println(s+"s2");
-		  System.out.println(i+"i2");
-		  System.out.println(d+"d2");
-		  System.out.println(e+"e2");
 		  if (c>h &&  c>a && c >s && c>i && c>d && c>e) {
-			  System.out.println(c);
+			  
 			 
 			 return "c - administrativas y contables "+"\n"+" Aptitudes: Persuasivo, Objetivo,Practico,Tolerante,Responsable,Ambicioso,Dinamico,Resulotivo ";
 			  
